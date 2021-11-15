@@ -8,20 +8,20 @@ return `PAYMENT BY ZEEONE OFC
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0896 0539 3009
+		• muhammad hafiz
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0896 0539 3009
+		• hafiz
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0896 0539 3009
+		• hafiz
 
 *さ PULSA*
 1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+	ㅁ 088298676623
+2. TREE
+	ㅁ 0896 0539 3009
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
